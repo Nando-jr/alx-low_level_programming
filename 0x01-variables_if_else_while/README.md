@@ -4,3 +4,4 @@
 3-print_alphabets.c: a program that prints the alphabet in lowercase, and then in uppercase
 4-print_alphabt.c: a program that prints the alphabet in lowercase
 5-print_numbers.c: a program that prints all single digit numbers of base 10 starting from 0
+6-print_numberz.c: a program that prints all single digit numbers of base 10 starting from 0 WITHOUT var char
