@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Lists the smallest combination of 3 different digits in ascending order.
+ * main - Lists the smallest combination of 3 diff digits in ascending order.
  *
  * Return: Always 0 (Success)
  */
