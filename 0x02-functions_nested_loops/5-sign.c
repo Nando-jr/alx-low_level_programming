@@ -5,7 +5,6 @@
  * greater, equal or les than 0.
  *
  * @n: The input number is an integer.
- * @c: The character in ASCII code
  *
  * Return: 1 if greater than zero. 0 if zero.
  * -1 if less than zero.
