@@ -8,3 +8,4 @@
 7-print_diagonal.c: a function that draws a diagonal line on the terminal
 8-print_square.c: a fucntion that prints a square
 9-fizz_buzz.c
+10-print_triangle.c: a function that prints a triangle
