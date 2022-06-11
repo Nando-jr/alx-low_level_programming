@@ -9,3 +9,4 @@
 8-print_square.c: a fucntion that prints a square
 9-fizz_buzz.c
 10-print_triangle.c: a function that prints a triangle
+100-prime_factor.c: a program that finds and prints the largest prime factor of a number
