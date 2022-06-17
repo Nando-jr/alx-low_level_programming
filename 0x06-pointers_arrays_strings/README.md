@@ -4,3 +4,4 @@
 3-strcmp.c: This function compares two strings; works exactly like strcmp
 4-rev_array.c: This function reverses the content of an array of integers
 5-string_toupper.c: This function changes all lowercase letters of a string to uppercase
+6-cap_string.c: This function capitalizes all words of a string
