@@ -9,3 +9,4 @@
 100-rot13.c: This function encodes a string using rot13
 101-print_number.c: This function prints an integer using _putchar (f)
 102-magic.c: Debugs a code magic.c
+103-infinite_add.c: This function adds 2 numbers
