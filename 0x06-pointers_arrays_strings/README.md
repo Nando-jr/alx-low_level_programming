@@ -6,3 +6,4 @@
 5-string_toupper.c: This function changes all lowercase letters of a string to uppercase
 6-cap_string.c: This function capitalizes all words of a string
 7-leet.c: This function encodes a string into 1337
+100-rot13.c: This function encodes a string using rot13
