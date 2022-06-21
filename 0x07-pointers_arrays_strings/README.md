@@ -2,3 +2,4 @@
 1-memcpy.c: This function copies memory area (similar to stlib memcpy)
 2-strchr.c: This function locates a character in a string (stlib strchr)
 3-strspn.c: This function gets the length of a prefix substring (stlib strspn)
+4-strpbrk.c: This function searches a string for any of a set of bytes (stlib strpbrk)
