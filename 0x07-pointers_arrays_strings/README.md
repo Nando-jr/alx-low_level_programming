@@ -4,3 +4,4 @@
 3-strspn.c: This function gets the length of a prefix substring (stlib strspn)
 4-strpbrk.c: This function searches a string for any of a set of bytes (stlib strpbrk)
 5-strstr.c: This function locates a substring (stlib strstr)
+7-print_chessboard.c: This function prints the chessboard
