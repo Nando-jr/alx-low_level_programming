@@ -6,3 +6,4 @@
 5-strstr.c: This function locates a substring (stlib strstr)
 7-print_chessboard.c: This function prints the chessboard
 8-print_diagsums.c: This function prints the sum of the two diagonals of a square matrix of integers
+100-set_string.c: This function sets the value of a pointer to a char
