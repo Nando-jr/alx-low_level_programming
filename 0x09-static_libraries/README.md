@@ -22,4 +22,7 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
-### (ps: just learnt how to Heading in Readme)
+##Task 1
+Create a script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory
+
+### (ps: just learnt how to use Heading in Readme)
