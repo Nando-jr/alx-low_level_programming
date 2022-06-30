@@ -4,3 +4,4 @@
 3-alloc_grid.c: This function returns a pointer to a 2 dimensional array of integers
 4-free_grid.c: This function frees a 2 dimensional grid previously created by your alloc_grid function
 100-argstostr.c: This function concatenates all the arguments of your program
+101-strtow.c: This function splits a string into words
