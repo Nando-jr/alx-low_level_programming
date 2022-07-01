@@ -29,18 +29,18 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 
 	num = n;
 
-	if (s1 == NULL) /* if NULL is passed, treat it as an empty string */
+	if (s1 == NULL) /* condition 3 */
 		s1 = "";
 	if (s2 == NULL)
 		s2 = "";
 	if (num < 0) /* to account for negative n bytes */
 		return (NULL);
-	if (num >= _strlen(s2)) /* If n is greater or equal to the length of s2 then use the entire string s2 */
+	if (num >= _strlen(s2)) /* condition 2 */
 		num = _strlen(s2);
 
 	length = _strlen(s1) + num + 1; /* +1 to account for null pointer */
 
-	ptr = malloc(sizeof(*ptr) * length); /* malloc and error check */
+	ptr = malloc(sizeof(*ptr) * length); /* malloc and condition 1 */
 	if (ptr == NULL)
 		return (NULL);
 
