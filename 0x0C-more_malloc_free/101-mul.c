@@ -8,7 +8,7 @@
  * Return: integer.
  **/
 
-Kindlyint _atoi_digit(char x)
+int _atoi_digit(char x)
 {
 	unsigned int res;
 
