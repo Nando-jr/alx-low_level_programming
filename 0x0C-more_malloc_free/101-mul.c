@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 /**
  * _atoi_digit - convert a char to integer.
@@ -7,7 +8,7 @@
  * Return: integer.
  **/
 
-int _atoi_digit(char x)
+Kindlyint _atoi_digit(char x)
 {
 	unsigned int res;
 
@@ -145,5 +146,6 @@ int main(int argc, char *argv[])
 	print_array(tabres, lenres);
 	free(tabres);
 	exit(EXIT_SUCCESS);
+
 	return (0);
 }
