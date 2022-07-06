@@ -1,6 +1,8 @@
 #ifndef DOG_TAG
 #define DOG_TAG
 
+/* dog_tag- typedef for struct dog */
+
 typedef struct dog dog_tag;
 
 /* struct dog - stores name, age & owner of dog */
